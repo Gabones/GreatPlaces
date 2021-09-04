@@ -1,16 +1,10 @@
 # great_places
 
-A new Flutter project.
+A Flutter project for Academind course on Udemy.
+This app cover the Section 13: Using Native Device Features (Camera, Maps,
+Location, ...) [GREAT PLACES APP]
 
-## Getting Started
+The original course teachs you by using Google Maps API however this api requires a credit card.
+This app was developed using the latest version of flutter and relative libraries.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Select the Mapbox Branch in the top left corner and you can download the app code and be able to follow course classes without needing a credit card.
